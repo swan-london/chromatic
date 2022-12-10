@@ -62,5 +62,7 @@
     "chromatic": "^6.12.0",
     "prop-types": "^15.8.1",
     "webpack": "^5.75.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "chromatic@0.1.0"
 }
