@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 
 import { Button } from './Button';
 import './header.css';
+import Label from './Label';
 
 export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (
   <header>
@@ -25,6 +26,7 @@ export const Header = ({ user, onLogin, onLogout, onCreateAccount }) => (
           </g>
         </svg>
         <h1>Acme</h1>
+        <h3><Label /></h3>
       </div>
       <div>
         {user ? (
