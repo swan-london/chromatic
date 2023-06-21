@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Label = () => {
-  return <label>Regular Label</label>
+  return <label>This is a new label</label>
 }
 
 export default Label;
