@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Text = () => {
-  return <h4>This is a new heading</h4>
+  return <h4>22 June text</h4>
 }
 
 export default Text;
